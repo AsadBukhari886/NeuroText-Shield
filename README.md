@@ -84,6 +84,6 @@ Visit http://127.0.0.1:5000 in your browser to test the app.
 This project is released under the MIT License.
 
 📬 Contact
-If you'd like to connect or collaborate, feel free to reach out to me on .
+If you'd like to connect or collaborate, feel free to reach out to me.
 ---
 
